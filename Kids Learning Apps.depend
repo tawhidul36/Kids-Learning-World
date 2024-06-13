@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1660024607 source:g:\22 22\project final\kids learning apps\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"espeak.h"
+
+1660024594 g:\22 22\project final\kids learning apps\menu.h
+
+1660024548 g:\22 22\project final\kids learning apps\espeak.h
+
